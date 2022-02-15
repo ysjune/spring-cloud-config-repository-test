@@ -1,3 +1,9 @@
 config:
   profile: Im Local!
   comment: Hello! Local! TEST SPRING BUS STREAM!!
+db:
+  username: user
+  password: password
+aaa:
+  bbb:
+    ccc: ddd
